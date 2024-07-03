@@ -4,6 +4,7 @@
 #
 Programming language used -> Python.
 #
-Dependencies used --> Pandas, bs4, requests, yfinance, plotly etc 
-Learnt from IBM Data Science professional course.
+Dependencies used --> Pandas, bs4, requests, yfinance, plotly etc
+#
+Learnings from IBM Data Science professional course.
 Thank You :) 
